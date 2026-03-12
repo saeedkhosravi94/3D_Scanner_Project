@@ -1,5 +1,9 @@
 # 3D Scanning via Laser Triangulation and Plane-Based Geometry
 
+<p align="center">
+  <img src="cup.png" alt="3D Scanned Cup Result" width="600">
+</p>
+
 This repository features a 3D scanner implemented from scratch using a red line laser and a single calibrated camera. The project focuses on geometric computer vision, specifically plane-to-plane intersection and 3D point cloud reconstruction.
 
 ## Key Technical Features
