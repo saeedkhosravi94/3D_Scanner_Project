@@ -29,4 +29,3 @@ This repository features a 3D scanner implemented from scratch using a red line 
 
 ## Results
 The project successfully reconstructs objects (like a cup) by moving a handheld laser. The final output is a dense point cloud preserved in `.ply` format.# 3D_Scanner_Project
-# 3D_Scanner_Project
